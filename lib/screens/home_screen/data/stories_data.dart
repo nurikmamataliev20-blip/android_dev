@@ -7,14 +7,14 @@ StoryModel _s(String name, String seed) => StoryModel(
 );
 
 final List<StoryModel> storiesData = [
-  _s('anna', 'story1'),
-  _s('bek', 'story2'),
+  _s('nurik', 'story1'),
+  _s('beka', 'story2'),
   _s('aida', 'story3'),
-  _s('nurlan', 'story4'),
-  _s('dina', 'story5'),
-  _s('timur', 'story6'),
-  _s('mira', 'story7'),
-  _s('azat', 'story8'),
-  _s('sanjar', 'story9'),
-  _s('elena', 'story10'),
+  _s('nurba', 'story4'),
+  _s('denko', 'story5'),
+  _s('tima', 'story6'),
+  _s('baha', 'story7'),
+  _s('ars', 'story8'),
+  _s('sancho', 'story9'),
+  _s('kury', 'story10'),
 ];
